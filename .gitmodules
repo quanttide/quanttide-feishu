@@ -1,0 +1,18 @@
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-feishu-platform.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-feishu-platform.git
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-feishu-platform.git
+[submodule "examples/quanttide-feishu-lab"]
+	path = examples/quanttide-feishu-lab
+	url = https://github.com/quanttide/quanttide-feishu-lab.git
+[submodule "apps/qtcloud-feishu"]
+	path = apps/qtcloud-feishu
+	url = https://github.com/quanttide/qtcloud-feishu.git
+[submodule "packages/quanttide-feishu-toolkit"]
+	path = packages/quanttide-feishu-toolkit
+	url = https://github.com/quanttide/quanttide-feishu-toolkit.git
