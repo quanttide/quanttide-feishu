@@ -17,6 +17,8 @@
 | `data/context` | [quanttide-context-of-feishu-platform](https://github.com/quanttide/quanttide-context-of-feishu-platform) | 语境：素材与未定稿的整理内容 |
 | `data/intention` | [quanttide-intention-of-feishu-platform](https://github.com/quanttide/quanttide-intention-of-feishu-platform) | 意图：为什么做、做成什么形态 |
 | `data/roadmap` | [quanttide-roadmap-of-feishu-platform](https://github.com/quanttide/quanttide-roadmap-of-feishu-platform) | 路线图：阶段目标与演进路径 |
+| `data/insight` | [quanttide-insight-of-feishu-platform](https://github.com/quanttide/quanttide-insight-of-feishu-platform) | 洞察：实践沉淀的判断与结论 |
+| `docs/gallery` | [quanttide-gallery-of-feishu-platform](https://github.com/quanttide/quanttide-gallery-of-feishu-platform) | 案例集：实践案例与成果展示 |
 | `examples/quanttide-feishu-lab` | [quanttide-feishu-lab](https://github.com/quanttide/quanttide-feishu-lab) | 实验室：接口与信息架构原型 |
 | `packages/quanttide-feishu-toolkit` | [quanttide-feishu-toolkit](https://github.com/quanttide/quanttide-feishu-toolkit) | 共享工具包 |
 

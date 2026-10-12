@@ -16,3 +16,9 @@
 [submodule "packages/quanttide-feishu-toolkit"]
 	path = packages/quanttide-feishu-toolkit
 	url = https://github.com/quanttide/quanttide-feishu-toolkit.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-feishu-platform.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-feishu-platform.git

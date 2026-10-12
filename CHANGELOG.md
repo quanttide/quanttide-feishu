@@ -10,3 +10,5 @@
 - 挂载 `apps/qtcloud-feishu` 子模块：量潮飞书云（`qtcloud-feishu`）
 - 挂载 `examples/quanttide-feishu-lab` 子模块：量潮飞书适配实验室（`quanttide-feishu-lab`）
 - 挂载 `packages/quanttide-feishu-toolkit` 子模块：量潮飞书适配工具集（`quanttide-feishu-toolkit`）
+- 挂载 `docs/gallery` 子模块：量潮飞书平台案例集（`quanttide-gallery-of-feishu-platform`）
+- 挂载 `data/insight` 子模块：量潮飞书平台洞察（`quanttide-insight-of-feishu-platform`）
