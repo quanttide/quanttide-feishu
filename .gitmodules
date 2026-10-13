@@ -22,3 +22,6 @@
 [submodule "data/insight"]
 	path = data/insight
 	url = https://github.com/quanttide/quanttide-insight-of-feishu-platform.git
+[submodule "apps/qtrecurit"]
+	path = apps/qtrecurit
+	url = https://github.com/quanttide/qtrecurit.git

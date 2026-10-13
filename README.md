@@ -14,6 +14,7 @@
 | 路径 | 仓库 | 说明 |
 |:--|:--|:--|
 | `apps/qtcloud-feishu` | [qtcloud-feishu](https://github.com/quanttide/qtcloud-feishu) | 飞书适配的可部署应用 |
+| `apps/qtrecurit` | [qtrecurit](https://github.com/quanttide/qtrecurit) | 量潮招聘 |
 | `data/context` | [quanttide-context-of-feishu-platform](https://github.com/quanttide/quanttide-context-of-feishu-platform) | 语境：素材与未定稿的整理内容 |
 | `data/intention` | [quanttide-intention-of-feishu-platform](https://github.com/quanttide/quanttide-intention-of-feishu-platform) | 意图：为什么做、做成什么形态 |
 | `data/roadmap` | [quanttide-roadmap-of-feishu-platform](https://github.com/quanttide/quanttide-roadmap-of-feishu-platform) | 路线图：阶段目标与演进路径 |
