@@ -15,3 +15,9 @@
 - 挂载 `data/insight` 子模块：量潮飞书平台洞察（`quanttide-insight-of-feishu-platform`）
 - 挂载 `docs/handbook` 子模块：量潮飞书平台手册（`quanttide-handbook-of-feishu-platform`）
 - 挂载 `data/report` 子模块：量潮飞书平台报告（`quanttide-report-of-feishu-platform`）
+
+### Changed
+
+- `examples/quanttide-feishu-lab` 收为骨架：与 `apps/qtcloud-feishu`（`src/cli/`）功能重复的实现删除
+  （基础单元、串联器、执行器、假 lark-cli 与夹具、能力与设计文档），正本在平台仓；平台仓文档
+  同步去除对实验室的同步拷贝依赖，README 结构表说明改为「骨架」

@@ -22,7 +22,7 @@
 | `data/report` | [quanttide-report-of-feishu-platform](https://github.com/quanttide/quanttide-report-of-feishu-platform) | 报告：工作与研究的报告与复盘 |
 | `docs/gallery` | [quanttide-gallery-of-feishu-platform](https://github.com/quanttide/quanttide-gallery-of-feishu-platform) | 案例集：实践案例与成果展示 |
 | `docs/handbook` | [quanttide-handbook-of-feishu-platform](https://github.com/quanttide/quanttide-handbook-of-feishu-platform) | 手册：操作规范与做法 |
-| `examples/quanttide-feishu-lab` | [quanttide-feishu-lab](https://github.com/quanttide/quanttide-feishu-lab) | 实验室：接口与信息架构原型 |
+| `examples/quanttide-feishu-lab` | [quanttide-feishu-lab](https://github.com/quanttide/quanttide-feishu-lab) | 实验室：骨架（功能正本在 `apps/qtcloud-feishu`） |
 | `packages/quanttide-feishu-toolkit` | [quanttide-feishu-toolkit](https://github.com/quanttide/quanttide-feishu-toolkit) | 共享工具包 |
 
 ## 许可
