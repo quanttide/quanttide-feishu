@@ -13,3 +13,4 @@
 - 挂载 `packages/quanttide-feishu-toolkit` 子模块：量潮飞书适配工具集（`quanttide-feishu-toolkit`）
 - 挂载 `docs/gallery` 子模块：量潮飞书平台案例集（`quanttide-gallery-of-feishu-platform`）
 - 挂载 `data/insight` 子模块：量潮飞书平台洞察（`quanttide-insight-of-feishu-platform`）
+- 挂载 `docs/handbook` 子模块：量潮飞书平台手册（`quanttide-handbook-of-feishu-platform`）

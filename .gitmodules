@@ -25,3 +25,6 @@
 [submodule "apps/qtrecurit"]
 	path = apps/qtrecurit
 	url = https://github.com/quanttide/qtrecurit.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-feishu-platform.git
