@@ -28,3 +28,6 @@
 [submodule "docs/handbook"]
 	path = docs/handbook
 	url = https://github.com/quanttide/quanttide-handbook-of-feishu-platform.git
+[submodule "data/report"]
+	path = data/report
+	url = https://github.com/quanttide/quanttide-report-of-feishu-platform.git
