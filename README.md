@@ -23,6 +23,7 @@
 | `docs/bylaw` | [quanttide-bylaw-of-feishu-platform](https://github.com/quanttide/quanttide-bylaw-of-feishu-platform) | 飞书平台章程 |
 | `docs/gallery` | [quanttide-gallery-of-feishu-platform](https://github.com/quanttide/quanttide-gallery-of-feishu-platform) | 案例集：实践案例与成果展示 |
 | `docs/handbook` | [quanttide-handbook-of-feishu-platform](https://github.com/quanttide/quanttide-handbook-of-feishu-platform) | 手册：操作规范与做法 |
+| `docs/tutorial` | [quanttide-tutorial-of-feishu-platform](https://github.com/quanttide/quanttide-tutorial-of-feishu-platform) | 飞书平台教程 |
 | `examples/quanttide-feishu-lab` | [quanttide-feishu-lab](https://github.com/quanttide/quanttide-feishu-lab) | 实验室：骨架（功能正本在 `apps/qtcloud-feishu`） |
 | `packages/quanttide-feishu-toolkit` | [quanttide-feishu-toolkit](https://github.com/quanttide/quanttide-feishu-toolkit) | 共享工具包 |
 

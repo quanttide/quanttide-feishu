@@ -16,6 +16,7 @@
 - 挂载 `docs/handbook` 子模块：量潮飞书平台手册（`quanttide-handbook-of-feishu-platform`）
 - 挂载 `data/report` 子模块：量潮飞书平台报告（`quanttide-report-of-feishu-platform`）
 - 挂载 `docs/bylaw` 子模块：量潮飞书平台章程（`quanttide-bylaw-of-feishu-platform`）
+- 挂载 `docs/tutorial` 子模块：量潮飞书平台教程（`quanttide-tutorial-of-feishu-platform`）
 
 ### Changed
 
