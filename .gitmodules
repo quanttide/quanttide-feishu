@@ -22,9 +22,6 @@
 [submodule "data/insight"]
 	path = data/insight
 	url = https://github.com/quanttide/quanttide-insight-of-feishu-platform.git
-[submodule "apps/qtrecurit"]
-	path = apps/qtrecurit
-	url = https://github.com/quanttide/qtrecurit.git
 [submodule "docs/handbook"]
 	path = docs/handbook
 	url = https://github.com/quanttide/quanttide-handbook-of-feishu-platform.git
@@ -37,3 +34,6 @@
 [submodule "docs/tutorial"]
 	path = docs/tutorial
 	url = https://github.com/quanttide/quanttide-tutorial-of-feishu-platform.git
+[submodule "apps/qtadmin"]
+	path = apps/qtadmin
+	url = https://github.com/quanttide/qtadmin.git
