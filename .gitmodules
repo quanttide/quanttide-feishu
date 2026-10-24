@@ -37,3 +37,6 @@
 [submodule "apps/qtadmin"]
 	path = apps/qtadmin
 	url = https://github.com/quanttide/qtadmin.git
+[submodule "apps/qtcloud-connect"]
+	path = apps/qtcloud-connect
+	url = https://github.com/quanttide/qtcloud-connect.git
