@@ -14,7 +14,7 @@
 ### qtcloud-feishu（飞书适配 CLI，正本）
 
 - Rust CLI（crate `qtcloud-feishu-cli`，命令 `qtcloud-feishu`）；`main.rs` 是骨架，**命令面尚未定义**。
-- 骨架已成形：六个资源、十四个动作，登记即契约。基础单元按资源分文件（`src/resources/`），串联器读定义（`engine.rs`），执行器读流程推格（`flow.rs`），落盘按 `raw/<资源>/<动作>/<页序>.json` 加游标（`store.rs`），路径按 XDG 规范（`paths.rs`）。
+- 骨架已成形：六个资源、十四个动作，登记即契约。基础单元按资源分文件（`src/resources/`），串联器读定义（`engine.rs`），执行器读流程推格（`flow.rs`），落盘按加工后的缓存加游标（`store.rs`，原始响应禁止落盘），路径按 XDG 规范（`paths.rs`）。
 - 测试集中在 `tests/`（含假 lark-cli 与夹具），`src/` 只放实现。
 - 下一步：按迁入指南接入 qtcloud-connect 的五项飞书能力（聊天记录搜索、群通知、邮件投递统计、邮件发送通道、聊天知识提取），迁入后为七资源十九动作。方案在 `src/cli/docs/dev-guide/`。
 
